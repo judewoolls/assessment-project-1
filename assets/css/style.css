@@ -51,8 +51,29 @@ nav {
 }
 
 .hero p {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-family: 'Indie Flower', cursive;
+}
+
+/* resources page hero */
+.hero-resources {
+    background: url("../images/Resources-Section/hero/second-hero.png") no-repeat bottom center/cover;
+    padding: 50px;
+    text-align: center;
+    min-height: 700px;
+    margin-bottom: 10px;
+}
+
+.hero-resources h1 {
+    font-size: 3.5rem;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+.hero-resources p {
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: white;
 }
 
 /*  main section */
