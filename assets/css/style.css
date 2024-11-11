@@ -70,7 +70,6 @@ main img {
 .footer-container {
     display: flex;
     margin-top: auto;
-
 }
 
 
@@ -82,7 +81,7 @@ footer {
 }
 
 .footer-container .footer-color {
-    background-color: pink;
+    background-color: lightgray !important;
 }
 
 
