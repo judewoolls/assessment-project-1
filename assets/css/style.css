@@ -18,6 +18,9 @@ h1, h2 {
 
 
 /* nav bar */
+nav {
+    border-bottom: 1px solid black;
+}
 .navbar-brand {
     font-size: 2rem;
     font-family: 'Indie Flower', cursive;
