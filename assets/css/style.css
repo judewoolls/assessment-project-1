@@ -193,6 +193,11 @@ main img {
     max-height: 225px;
 }
 
+#support-main-content {
+    margin-top: 20px;
+    min-height: 100vh;
+}
+
 /* footer container */
 .footer-container {
     display: flex;
