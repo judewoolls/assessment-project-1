@@ -157,7 +157,7 @@ main img {
     padding: 50px;
     text-align: center;
     margin-bottom: 10px;
-    min-height: 700px;
+    min-height: 500px;
     margin-bottom: 0;
 }
 
@@ -169,6 +169,10 @@ main img {
 .books h2 {
     background-color: black;
     border-radius: 20px;
+}
+
+.books .card {
+    min-height: 465px;
 }
 
 /* resources section */
@@ -184,8 +188,9 @@ main img {
     color: black;
 }
 
-.resources-content .card {
-    min-height: 600px;
+.resources-content .books .card img{
+    min-height: 225px;
+    max-height: 225px;
 }
 
 /* footer container */
