@@ -167,6 +167,14 @@ main img {
     border-radius: 20px;
 }
 
+.mindfulness .card {
+    min-height: 652px;
+}
+
+.mindfulness .card .meditation-button {
+    margin-top: 45px;
+}
+
 /* books */
 .books {
     background: url("../images/Resources-Section/Books/bookshelf.png") no-repeat bottom center/cover;
@@ -223,6 +231,11 @@ main img {
 .resources-content .btn {
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+#urgent-support {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 
