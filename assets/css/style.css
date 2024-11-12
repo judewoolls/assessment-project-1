@@ -244,6 +244,32 @@ footer {
     background-color: lightgray !important;
 }
 
+.footer-text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.footer-container a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.footer-container a:hover {
+    color: black;
+    text-decoration: underline;
+    margin: 0 10px;
+}
+
+.footer-container a i {
+    font-size: 2em;
+}
+
+.footer-container a i:hover {
+    opacity: 0.6;
+    transition: all 0.3s;
+}
+
 /* support section */
 
 .support-hero {
