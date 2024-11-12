@@ -184,6 +184,10 @@ main img {
     color: black;
 }
 
+.resources-content .card {
+    min-height: 600px;
+}
+
 /* footer container */
 .footer-container {
     display: flex;
