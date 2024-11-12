@@ -49,6 +49,9 @@ nav {
 
 .hero-content .btn {
     margin-top: 30px;
+    padding: 25px;
+    font-size: 1.5rem;
+    border-radius: 15px;
 }
 
 .hero h1 {
