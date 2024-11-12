@@ -202,15 +202,17 @@ main img {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
 .resources-content section {
     margin-top: 20px;
 }
 
-.resources-content h5, .resources-content p {
+.resources-content h5,
+.resources-content p {
     color: black;
 }
 
-.resources-content .books .card img{
+.resources-content .books .card img {
     min-height: 225px;
     max-height: 225px;
 }
@@ -249,6 +251,7 @@ footer {
     min-height: 700px;
     opacity: 0.9;
 }
+
 #support-main-content {
     margin-top: 40px;
     min-height: 100vh;
@@ -265,7 +268,9 @@ footer {
     color: white;
 }
 
-#support-main-content p, #support-main-content h2, #support-main-content h3 {
+#support-main-content p,
+#support-main-content h2,
+#support-main-content h3 {
     color: black;
     margin-top: 20px;
 }
@@ -322,8 +327,9 @@ footer {
     #support-main-content {
         margin-top: 10px;
     }
+
     section {
         background-color: #f1f1f1;
     }
-    
+
 }
