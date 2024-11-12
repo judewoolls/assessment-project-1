@@ -304,6 +304,11 @@ footer {
     margin-top: 20px;
 }
 
+#emergency-contacts {
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
 .background-support {
     /* background: url("../images/support-section/support-background-image.png") no-repeat center/cover; */
     background-color: blanchedalmond;
