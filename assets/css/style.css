@@ -249,6 +249,11 @@ footer {
     opacity: 0.9;
 }
 
+#table-container {
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
 /* media queries */
 
 @media (min-width: 768px) {
