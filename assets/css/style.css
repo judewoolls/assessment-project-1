@@ -211,6 +211,27 @@ footer {
     background-color: lightgray !important;
 }
 
+/* support section */
+.support-hero {
+    background: url("../images/support-section/hero-2.png") no-repeat center/cover;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    min-height: 700px;
+    opacity: 0.9;
+}
+
+.support-hero h1 {
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+.support-hero p {
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
 
 /* media queries */
 
