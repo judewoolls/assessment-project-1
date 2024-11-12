@@ -193,10 +193,6 @@ main img {
     max-height: 225px;
 }
 
-#support-main-content {
-    margin-top: 20px;
-    min-height: 100vh;
-}
 
 /* footer container */
 .footer-container {
@@ -217,13 +213,18 @@ footer {
 }
 
 /* support section */
+
 .support-hero {
     background: url("../images/support-section/hero-2.png") no-repeat center/cover;
     padding: 50px;
     text-align: center;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     min-height: 700px;
     opacity: 0.9;
+}
+#support-main-content {
+    margin-top: 40px;
+    min-height: 100vh;
 }
 
 .support-hero h1 {
@@ -237,6 +238,16 @@ footer {
     color: white;
 }
 
+#support-main-content p, #support-main-content h2, #support-main-content h3 {
+    color: black;
+    margin-top: 20px;
+}
+
+.background-support {
+    /* background: url("../images/support-section/support-background-image.png") no-repeat center/cover; */
+    background-color: blanchedalmond;
+    opacity: 0.9;
+}
 
 /* media queries */
 
@@ -274,5 +285,9 @@ footer {
 
     #content-3-text {
         order: 6;
+    }
+
+    #support-main-content {
+        margin-top: 0px;
     }
 }
