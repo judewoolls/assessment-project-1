@@ -88,6 +88,16 @@ nav {
     border-radius: 20px;
 }
 
+.blue-button {
+    text-decoration: none;
+    color: white;
+}
+
+.resource-button {
+    text-decoration: none;
+    color: black;
+}
+
 /*  main section */
 #about {
     margin-bottom: 30px;
@@ -191,6 +201,11 @@ main img {
 .resources-content .books .card img{
     min-height: 225px;
     max-height: 225px;
+}
+
+.resources-content .btn {
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 
