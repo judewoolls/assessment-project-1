@@ -189,7 +189,15 @@ main img {
     min-height: 465px;
 }
 
+.book-button {
+    color: green;
+}
+
 /* resources section */
+.black-button {
+    color: black;
+}
+
 .resources-content {
     margin-top: 50px;
     margin-bottom: 50px;
