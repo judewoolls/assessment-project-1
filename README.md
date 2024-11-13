@@ -167,7 +167,9 @@ Throughout the development process these user stories where on a project board i
 
 ## Wireframes
 
-
+![wire frame 1](New%20Wireframe%201.png)
+![wire frame 2](New%20Wireframe%202.png)
+![wire frame 3](New%20Wireframe%203.png)
 
 
 ## Testing
