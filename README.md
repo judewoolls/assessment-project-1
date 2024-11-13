@@ -175,11 +175,21 @@ Throughout the development process these user stories where on a project board i
 ## Testing
 
 **HTML validation**: all three html files passed the validation test
+
 **CSS validation**: the stylesheet passed the validation test
+
 **Lighthouse test**:
   * Desktop score: 81
   * Mobile score: 71
 Key improvements for this would be to compress images.
+
+### Were user stories met
+The must-have and should-have user stories are met. This was testing by:
+* using the nav bar and footer links
+* using dev tools to check for responsiveness
+* using the buttons to check the links are correct
+* check that all the correct images display where they should
+* there is no left over lorem ipsum text
 
 **Responsive design**
 ![responsive design image](amiresponsive.png)
