@@ -1,12 +1,22 @@
 # The Fulfillment Hub ReadME
 
 ## Project Overview
-
 The Fulfillment Hub is a mental health awareness website designed to provide accessible resources, support, and guidance to help users improve their personal lives, relationships, and well-being. This project follows a brief focused on mental health and personal development.
 
 [Visit the Fulfillment Hub](https://judewoolls.github.io/assessment-project-1/)
 
-## List of Features
+## Contents
+1. [Features](#features)
+2. [Technologies](#technologies)
+3. [UX/UI](#ux-and-ui)
+4. [Testing](#testing)
+5. [Deployment](#deployment)
+6. [Sources](#sources)
+7. [Future Features](#future-features)
+8. [Known bugs](#known-bugs)
+9. [Acknowledgements](#acknowledgements)
+
+## Features
 * Navigation Bar
 * About page
 * Key points on mental health
@@ -18,7 +28,7 @@ The Fulfillment Hub is a mental health awareness website designed to provide acc
 * footer with page links, contact info and social media links
 * Responsive design
 
-## Technologies Used
+## Technologies
 * **HTML5** - For page structure, semantics and content
 * **CSS3** - for custom styling
 * **Boostrap** - For layout and grid based design
@@ -27,7 +37,7 @@ The Fulfillment Hub is a mental health awareness website designed to provide acc
 * **ChatGPT** - for text content
 
 
-## UX/UI
+## UX and UI
 
 ### Site goals
 ### Design Choices
@@ -42,12 +52,15 @@ The Fulfillment Hub is a mental health awareness website designed to provide acc
 **Lighthouse test**:
   * Desktop score: 81
   * Mobile score: 71
-    
 Key improvements for this would be to compress images.
 
-[HTML Validator](https://validator.w3.org/)
-[CSS Validator](https://jigsaw.w3.org/css-validator/)
-[Lighthouse test](https://developer.chrome.com/docs/lighthouse/overview#devtools)
+**Responsive design**
+![responsive design image](amiresponsive.png)
+
+*[HTML Validator](https://validator.w3.org/)
+*[CSS Validator](https://jigsaw.w3.org/css-validator/)
+*[Lighthouse test](https://developer.chrome.com/docs/lighthouse/overview#devtools)
+*[am i responsive?](https://amiresponsive.co.uk/)
 
 ## Deployment
 
