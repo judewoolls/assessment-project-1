@@ -183,13 +183,13 @@ Throughout the development process these user stories where on a project board i
   * Mobile score: 71
 Key improvements for this would be to compress images.
 
-### Were user stories met
-The must-have and should-have user stories are met. This was testing by:
+### Did the project meet the user story requirements?
+The must-have and should-have user stories are met. This was tested by:
 * using the nav bar and footer links
 * using dev tools to check for responsiveness
 * using the buttons to check the links are correct
 * check that all the correct images display where they should
-* there is no left over lorem ipsum text
+* check there is no left over lorem ipsum text
 
 **Responsive design**
 ![responsive design image](amiresponsive.png)
