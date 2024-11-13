@@ -57,10 +57,10 @@ Key improvements for this would be to compress images.
 **Responsive design**
 ![responsive design image](amiresponsive.png)
 
-*[HTML Validator](https://validator.w3.org/)
-*[CSS Validator](https://jigsaw.w3.org/css-validator/)
-*[Lighthouse test](https://developer.chrome.com/docs/lighthouse/overview#devtools)
-*[am i responsive?](https://amiresponsive.co.uk/)
+* [HTML Validator](https://validator.w3.org/)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [Lighthouse test](https://developer.chrome.com/docs/lighthouse/overview#devtools)
+* [am i responsive?](https://amiresponsive.co.uk/)
 
 ## Deployment
 
