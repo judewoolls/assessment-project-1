@@ -1,4 +1,4 @@
-# The Fulfillment Hub ReadME
+# THE FULFILLMENT HUB ReadME
 
 ## Project Overview
 The Fulfillment Hub is a mental health awareness website designed to provide accessible resources, support, and guidance to help users improve their personal lives, relationships, and well-being. This project follows a brief focused on mental health and personal development.
@@ -165,7 +165,9 @@ Throughout the development process these user stories where on a project board i
  Write about stress management, resilience, and confidence-building tips.
  Create another HTML file for the new careers transition page
 
-### Wireframes
+## Wireframes
+
+
 
 
 ## Testing
@@ -186,9 +188,45 @@ Key improvements for this would be to compress images.
 * [am i responsive?](https://amiresponsive.co.uk/)
 
 ## Deployment
+To deploy the site I used GitHub pages and deployed from the main branch.
 
 ## Sources
+[**Microsoft Copilot Images:**](https://copilot.microsoft.com/)
 
+### Images
+
+**Hero images**
+![index.html hero](assets/images/hero-images/homepage-hero.png)
+![support.html hero](assets/images/support-section/hero-2.png)
+
+**Index.html images**
+![index.html image1](assets/images/main-page/busy-woman.png)
+![index.html image2](assets/images/main-page/lonely-man.png)
+![index.html image3](assets/images/main-page/man-working.png)
+
+## Resources.html images
+
+**Background images**
+![resources.html image1](assets/images/Resources-Section/Books/bookshelf.png)
+![resources.html image2](assets/images/Resources-Section/mindfulness/meditation%20equipment.png)
+![resources.html image3](assets/images/Resources-Section/Exercise/gym-equipment.png)
+**Card images**
+![resources.html card image1](assets/images/Resources-Section/Exercise/crossfit-class.png)
+![resources.html card image2](assets/images/Resources-Section/Exercise/running.png)
+![resources.html card image3](assets/images/Resources-Section/Exercise/rugby-training.png)
+
+![resources.html card image4](assets/images/Resources-Section/Books/atomic-habits-2.jpeg)
+![resources.html card image5](assets/images/Resources-Section/Books/subtle-art-image.jpeg)
+![resources.html card image6](assets/images/Resources-Section/Books/love-life-2.jpeg)
+
+![resources.html card image7](assets/images/Resources-Section/mindfulness/mindfulness-image1.png)
+![resources.html card image8](assets/images/Resources-Section/mindfulness/mindfulness-image2.png)
+![resources.html card image9](assets/images/Resources-Section/mindfulness/mindfulness-image3.png)
+
+**Support images**
+![therapy session image](assets/images/support-section/therapy-session.png)
+![online therapy session image](assets/images/support-section/online-therapy.png)
+![group session image](assets/images/support-section/group-therapy.png)
 ## Future Features
 **Careers transition page** - a future feature that I had included in the could-have user stories was a careers transiton page.
 This page would include advice and resources specifically for changing jobs or progressing in careeer that help to manage the
